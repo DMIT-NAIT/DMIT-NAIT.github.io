@@ -11,8 +11,8 @@ These instructions will get you started in customizing this repository for your 
 
 This template has a number of placeholder text items that you can quickly customize using a search/replace in all files. Assuming you are using [Visual Studio Code](https://code.visualstudio.com) as your editor, you can press [[ctrl]] + [[shift]] + [[h]] to perform your search/replace. The following placeholder text items should be changed to fit with your site.
 
-- `DMIT-0001` - replace with your classroom organization's name
-- `Name_of_Course` - replace with the name of your course
+- `DMIT-NAIT` - replace with your classroom organization's name
+- `Digital Media and IT - NAIT` - replace with the name of your course
 
 ## Setting up Continuous Deployment
 

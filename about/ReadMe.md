@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-# About DMIT-0001
+# About DMIT-NAIT
 
 ::: warning NOTE: Notice of Disclaimer!
 This site is **under construction**.
@@ -21,7 +21,7 @@ For this course, you will need the following software installed on your machine.
 - [Visual Studio Code](https://code.visualstudio.com)
 - [GitKraken](https://www.gitkraken.com/) or [GitHub Desktop](https://desktop.github.com/)
 
-Additionally, you will need a GitHub account to access labs and assignments for this course. A [**workbook template**](https://github.com/DMIT-0001-Workbook/generate) is also provided that offers samples and practice opportunities.
+Additionally, you will need a GitHub account to access labs and assignments for this course. A [**workbook template**](https://github.com/DMIT-NAIT-Workbook/generate) is also provided that offers samples and practice opportunities.
 
 ## Colophon
 

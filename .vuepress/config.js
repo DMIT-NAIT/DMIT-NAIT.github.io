@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'DMIT-0001 Student Notes',
-    description: 'Name_of_Course',
+    title: 'DMIT-NAIT Student Notes',
+    description: 'Digital Media and IT - NAIT',
     extendMarkdown(md) {
         config: md => {
             md.set({ breaks: true })
@@ -19,7 +19,7 @@ module.exports = {
         lastUpdated: 'Last Updated', // string | boolean
         nav: [
             { text: 'Home', link: '/about/' },
-            { text: 'Issues/Bugs', link: 'https://github.com/DMIT-0001/DMIT-0001.github.io/issues/new' },
+            { text: 'Issues/Bugs', link: 'https://github.com/DMIT-NAIT/DMIT-NAIT.github.io/issues/new' },
             { text: 'Moodle', link: 'https://moodle.nait.ca' },
         ],
         sidebar: {
@@ -27,7 +27,7 @@ module.exports = {
             '/about/': [
                 '',
                 'todo',
-                [ 'https://github.com/DMIT-0001/DMIT-0001.github.io/', 'Source on GitHub' ]
+                [ 'https://github.com/DMIT-NAIT/DMIT-NAIT.github.io/', 'Source on GitHub' ]
             ]
         }
     },

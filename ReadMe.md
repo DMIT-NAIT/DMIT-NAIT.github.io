@@ -1,6 +1,6 @@
 ---
-title: DMIT-0001 - Student Notes
-description: Name_of_Course
+title: DMIT-NAIT - Student Notes
+description: Digital Media and IT - NAIT
 home: true
 heroImage: /favicon-512x512.png
 actionText: Get Started →
@@ -14,7 +14,7 @@ features:
   details: Report bugs/errors at the issue tracker link. When reporting errors, please identify the complete URL of the page and quote the portion of the page that has the error.
 footer: Copyright © 2020-present Digital Media and IT - NAIT
 ---
-# DMIT-0001 - Name_of_Course
+# DMIT-NAIT - Digital Media and IT - NAIT
 
 > A program of the [Northern Alberta Institute of Technology](http://nait.ca)
 
@@ -29,4 +29,4 @@ The DMIT-NAIT organization has a [Template](https://github.com/DMIT-NAIT/TEMPLAT
     ![Create new Repository](./images/CreateFromTemplate.png)
 3. Follow the instructions in the [TODO](about/todo.md) document for customizing your site.
 
-[![Build Status](https://github.com/DMIT-0001/DMIT-0001.github.io/workflows/Build%20and%20Deploy/badge.svg?branch=dev)](https://github.com/DMIT-0001/DMIT-0001.github.io/actions)
+[![Build Status](https://github.com/DMIT-NAIT/DMIT-NAIT.github.io/workflows/Build%20and%20Deploy/badge.svg?branch=dev)](https://github.com/DMIT-NAIT/DMIT-NAIT.github.io/actions)
