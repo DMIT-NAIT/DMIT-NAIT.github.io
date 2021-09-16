@@ -23,7 +23,7 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "serialize-javascript": "3.0.0",
-    "set-value": "3.0.2",
+    "set-value": "4.0.1",
     "vuepress": "1.4.0"
   }
 }
